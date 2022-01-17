@@ -1,6 +1,10 @@
 {
-	"name": "fcc-learn-npm-package-json",	
+	"name": "fcc-learn-npm-package-json",
 	"author": "Mariano Veloso de Brito",
+	"description": "A project that does something awesome",
+	"keywords": [ "learning", "freecodecamp", "backend" ],
+	"license": "free",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
